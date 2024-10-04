@@ -28,9 +28,23 @@ The pipeline starts with matching points between the two images using feature de
 
 ## Sample Output
 Below is a Visualization of the Epipole and the 3D Reconstruction
-
+All matches:
 ![image](https://github.com/user-attachments/assets/030b1e51-9f6c-47ef-80f8-a40660fe8270)
+Epipolar Lines:
 ![image](https://github.com/user-attachments/assets/2f2e7d6a-eb38-4fde-8ac6-8a894de1505b)
+RANSAC Inlier Matches:
+![image](https://github.com/user-attachments/assets/1b093451-a4e7-4acf-b6cd-a40dc40a840a)
+Recon 3D:
+![image](https://github.com/user-attachments/assets/8017d497-1a0c-4f24-86f0-a9afdc391613)
+Reprojection:
+![image](https://github.com/user-attachments/assets/a99f49b4-caf5-43a9-a24f-28e8cabe6b8a)
+SIFT:
+![image](https://github.com/user-attachments/assets/5fa08ef5-b9ba-4a08-b4cf-1d560fe10558)
+SIFT:
+![image](https://github.com/user-attachments/assets/55a9daaf-0d84-4da9-94e2-b30f24b304a6)
+
+
+
 
 
 
