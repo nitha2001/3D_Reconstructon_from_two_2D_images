@@ -30,12 +30,8 @@ The pipeline starts with matching points between the two images using feature de
 Below is a Visualization of the Epipole and the 3D Reconstruction
 
 ![image](https://github.com/user-attachments/assets/030b1e51-9f6c-47ef-80f8-a40660fe8270)
-![image](https://github.com/user-attachments/assets/f56ac02a-c4e8-488f-8385-da8c84a322b5)
-![image](https://github.com/user-attachments/assets/a6e0e31b-80fa-4f74-9a8d-b16aaffd0072)
-![image](https://github.com/user-attachments/assets/57464e71-92b7-4a73-82df-8ba0e15ed518)
-![image](https://github.com/user-attachments/assets/dc5c332c-0a1a-428b-9044-1090a84c2113)
-![image](https://github.com/user-attachments/assets/0adb3272-5a5c-4634-9a6c-aa09c6700def)
-![image](https://github.com/user-attachments/assets/dcec558a-05d1-44c7-a0b5-b055104b52ee)
+![image](https://github.com/user-attachments/assets/2f2e7d6a-eb38-4fde-8ac6-8a894de1505b)
+
 
 
   
